@@ -1,6 +1,6 @@
 # Library Management System
 
-## Overview
+## Overview 
 
 This repository contains an SQL-based Library Management System to handle various operations of a library. The system allows for efficient management of books, employees, and customers, including tracking book rentals and employee roles.
 
